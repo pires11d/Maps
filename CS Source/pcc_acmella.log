@@ -1,0 +1,1476 @@
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading C:\Users\Pires\Box Sync\My Maps\CS Source\VMF\pcc_acmella.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+***need to set $abovewater for material dev/dev_water2_cheap
+***need to set $abovewater for material dev/dev_water2_cheap
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\counter-strike source\cstrike\gameinfo.txt
+Patching WVT material: maps/pcc_acmella/nature/blendmudmud001a_wvt_patch
+Patching WVT material: maps/pcc_acmella/nature/blendmuddirt001a_wvt_patch
+Patching WVT material: maps/pcc_acmella/nature/blendprodasphaltgrass_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 8 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (2)
+writing C:\Users\Pires\Box Sync\My Maps\CS Source\VMF\pcc_acmella.prt...Building visibility clusters...
+done (1)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_borealis01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_borealis01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (614545 bytes)
+Error! prop_static using model "models/props/cs_office/tv_plasma.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props/cs_office/tv_plasma.mdl"!
+Error! prop_static using model "models/props/cs_office/offcorkboarda.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props/cs_office/offcorkboarda.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...Error! detail_prop using model "models/props/cs_office/chair_office.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props/cs_office/chair_office.mdl"!
+10
+Water found with no water_lod_control entity, creating a default one.
+Compacting texture/material tables...
+Reduced 2922 texinfos to 2019
+Reduced 96 texdatas to 80 (2439 bytes to 1875)
+Writing C:\Users\Pires\Box Sync\My Maps\CS Source\VMF\pcc_acmella.bsp
+Wrote ZIP buffer, estimated size 180118, actual size 178028
+14 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[2 texlights parsed from 'lights.rad']
+
+Loading c:\users\pires\box sync\my maps\cs source\vmf\pcc_acmella.bsp
+No vis information, direct lighting only.
+17343 faces
+147 degenerate faces
+9493334 square feet [1367040128.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+78 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.1379 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  32/1024         1536/49152    ( 3.1%) 
+brushes               1244/8192        14928/98304    (15.2%) 
+brushsides           16900/65536      135200/524288   (25.8%) 
+planes               23106/65536      462120/1310720  (35.3%) 
+vertexes             24975/65536      299700/786432   (38.1%) 
+nodes                10293/65536      329376/2097152  (15.7%) 
+texinfos              2019/12288      145368/884736   (16.4%) 
+texdata                 80/2048         2560/65536    ( 3.9%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                17343/65536      971208/3670016  (26.5%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             6514/65536      364784/3670016  ( 9.9%) 
+leaves               10326/65536      330432/2097152  (15.8%) 
+leaffaces            19449/65536       38898/131072   (29.7%) 
+leafbrushes           4866/65536        9732/131072   ( 7.4%) 
+areas                    3/256            24/2048     ( 1.2%) 
+surfedges           111221/512000     444884/2048000  (21.7%) 
+edges                60197/256000     240788/1024000  (23.5%) 
+LDR worldlights         78/8192         6864/720896   ( 1.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            1/32768          12/393216   ( 0.0%) 
+waterstrips           1469/32768       14690/327680   ( 4.5%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         23739/65536       47478/131072   (36.2%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     8234108/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]      700064/393216   (178.0%) VERY FULL!
+LDR ambient table    10326/65536       41304/262144   (15.8%) 
+HDR ambient table    10326/65536       41304/262144   (15.8%) 
+LDR leaf ambient     28277/65536      791756/1835008  (43.1%) 
+HDR leaf ambient     10326/65536      289128/1835008  (15.8%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/9762     ( 0.0%) 
+pakfile               [variable]      178028/0        ( 0.0%) 
+physics               [variable]      614545/4194304  (14.7%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 48086
+Writing c:\users\pires\box sync\my maps\cs source\vmf\pcc_acmella.bsp
+1 minute, 18 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading C:\Users\Pires\Box Sync\My Maps\CS Source\VMF\pcc_acmella.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+***need to set $abovewater for material dev/dev_water2_cheap
+***need to set $abovewater for material dev/dev_water2_cheap
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\counter-strike source\cstrike\gameinfo.txt
+Patching WVT material: maps/pcc_acmella/nature/blendmudmud001a_wvt_patch
+Patching WVT material: maps/pcc_acmella/nature/blendmuddirt001a_wvt_patch
+Patching WVT material: maps/pcc_acmella/nature/blendprodasphaltgrass_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 8 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (1)
+writing C:\Users\Pires\Box Sync\My Maps\CS Source\VMF\pcc_acmella.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_borealis01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_borealis01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (623970 bytes)
+Error! prop_static using model "models/props/cs_office/tv_plasma.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props/cs_office/tv_plasma.mdl"!
+Error! prop_static using model "models/props/cs_office/offcorkboarda.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props/cs_office/offcorkboarda.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...Error! detail_prop using model "models/props/cs_office/chair_office.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props/cs_office/chair_office.mdl"!
+10
+Water found with no water_lod_control entity, creating a default one.
+Compacting texture/material tables...
+Reduced 2979 texinfos to 2069
+Reduced 98 texdatas to 82 (2479 bytes to 1915)
+Writing C:\Users\Pires\Box Sync\My Maps\CS Source\VMF\pcc_acmella.bsp
+Wrote ZIP buffer, estimated size 180118, actual size 178028
+10 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[2 texlights parsed from 'lights.rad']
+
+Loading c:\users\pires\box sync\my maps\cs source\vmf\pcc_acmella.bsp
+No vis information, direct lighting only.
+17521 faces
+147 degenerate faces
+9493409 square feet [1367050880.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+79 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.1349 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  33/1024         1584/49152    ( 3.2%) 
+brushes               1250/8192        15000/98304    (15.3%) 
+brushsides           17136/65536      137088/524288   (26.1%) 
+planes               23568/65536      471360/1310720  (36.0%) 
+vertexes             25254/65536      303048/786432   (38.5%) 
+nodes                10385/65536      332320/2097152  (15.8%) 
+texinfos              2069/12288      148968/884736   (16.8%) 
+texdata                 82/2048         2624/65536    ( 4.0%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                17521/65536      981176/3670016  (26.7%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             6618/65536      370608/3670016  (10.1%) 
+leaves               10419/65536      333408/2097152  (15.9%) 
+leaffaces            19656/65536       39312/131072   (30.0%) 
+leafbrushes           4861/65536        9722/131072   ( 7.4%) 
+areas                    3/256            24/2048     ( 1.2%) 
+surfedges           112615/512000     450460/2048000  (22.0%) 
+edges                60939/256000     243756/1024000  (23.8%) 
+LDR worldlights         79/8192         6952/720896   ( 1.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            1/32768          12/393216   ( 0.0%) 
+waterstrips           1476/32768       14760/327680   ( 4.5%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         23832/65536       47664/131072   (36.4%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     8251404/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]      700548/393216   (178.2%) VERY FULL!
+LDR ambient table    10419/65536       41676/262144   (15.9%) 
+HDR ambient table    10419/65536       41676/262144   (15.9%) 
+LDR leaf ambient     28575/65536      800100/1835008  (43.6%) 
+HDR leaf ambient     10419/65536      291732/1835008  (15.9%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/9986     ( 0.0%) 
+pakfile               [variable]      178028/0        ( 0.0%) 
+physics               [variable]      623970/4194304  (14.9%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 48636
+Writing c:\users\pires\box sync\my maps\cs source\vmf\pcc_acmella.bsp
+1 minute, 17 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading C:\Users\Pires\Box Sync\My Maps\CS Source\VMF\pcc_acmella.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+***need to set $abovewater for material dev/dev_water2_cheap
+***need to set $abovewater for material dev/dev_water2_cheap
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\counter-strike source\cstrike\gameinfo.txt
+Patching WVT material: maps/pcc_acmella/nature/blendmudmud001a_wvt_patch
+Patching WVT material: maps/pcc_acmella/nature/blendmuddirt001a_wvt_patch
+Patching WVT material: maps/pcc_acmella/nature/blendprodasphaltgrass_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 8 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (1)
+writing C:\Users\Pires\Box Sync\My Maps\CS Source\VMF\pcc_acmella.prt...Building visibility clusters...
+done (1)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_borealis01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_borealis01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (623970 bytes)
+Error! prop_static using model "models/props/cs_office/tv_plasma.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props/cs_office/tv_plasma.mdl"!
+Error! prop_static using model "models/props/cs_office/offcorkboarda.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props/cs_office/offcorkboarda.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...Error! detail_prop using model "models/props/cs_office/chair_office.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props/cs_office/chair_office.mdl"!
+10
+Water found with no water_lod_control entity, creating a default one.
+Compacting texture/material tables...
+Reduced 2980 texinfos to 2069
+Reduced 98 texdatas to 82 (2479 bytes to 1915)
+Writing C:\Users\Pires\Box Sync\My Maps\CS Source\VMF\pcc_acmella.bsp
+Wrote ZIP buffer, estimated size 180118, actual size 178028
+9 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[2 texlights parsed from 'lights.rad']
+
+Loading c:\users\pires\box sync\my maps\cs source\vmf\pcc_acmella.bsp
+No vis information, direct lighting only.
+17516 faces
+147 degenerate faces
+9493411 square feet [1367051136.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+79 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.1400 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  33/1024         1584/49152    ( 3.2%) 
+brushes               1250/8192        15000/98304    (15.3%) 
+brushsides           17136/65536      137088/524288   (26.1%) 
+planes               23566/65536      471320/1310720  (36.0%) 
+vertexes             25244/65536      302928/786432   (38.5%) 
+nodes                10380/65536      332160/2097152  (15.8%) 
+texinfos              2069/12288      148968/884736   (16.8%) 
+texdata                 82/2048         2624/65536    ( 4.0%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                17516/65536      980896/3670016  (26.7%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             6619/65536      370664/3670016  (10.1%) 
+leaves               10414/65536      333248/2097152  (15.9%) 
+leaffaces            19653/65536       39306/131072   (30.0%) 
+leafbrushes           4859/65536        9718/131072   ( 7.4%) 
+areas                    3/256            24/2048     ( 1.2%) 
+surfedges           112586/512000     450344/2048000  (22.0%) 
+edges                60925/256000     243700/1024000  (23.8%) 
+LDR worldlights         79/8192         6952/720896   ( 1.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            1/32768          12/393216   ( 0.0%) 
+waterstrips           1476/32768       14760/327680   ( 4.5%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         23835/65536       47670/131072   (36.4%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     8250764/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]      700548/393216   (178.2%) VERY FULL!
+LDR ambient table    10414/65536       41656/262144   (15.9%) 
+HDR ambient table    10414/65536       41656/262144   (15.9%) 
+LDR leaf ambient     28561/65536      799708/1835008  (43.6%) 
+HDR leaf ambient     10414/65536      291592/1835008  (15.9%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/9986     ( 0.0%) 
+pakfile               [variable]      178028/0        ( 0.0%) 
+physics               [variable]      623970/4194304  (14.9%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 48614
+Writing c:\users\pires\box sync\my maps\cs source\vmf\pcc_acmella.bsp
+1 minute, 12 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading C:\Users\Pires\Box Sync\My Maps\CS Source\VMF\pcc_acmella.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+***need to set $abovewater for material dev/dev_water2_cheap
+***need to set $abovewater for material dev/dev_water2_cheap
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\counter-strike source\cstrike\gameinfo.txt
+Patching WVT material: maps/pcc_acmella/nature/blendmudmud001a_wvt_patch
+Patching WVT material: maps/pcc_acmella/nature/blendmuddirt001a_wvt_patch
+Patching WVT material: maps/pcc_acmella/nature/blendprodasphaltgrass_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 8 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (1)
+writing C:\Users\Pires\Box Sync\My Maps\CS Source\VMF\pcc_acmella.prt...Building visibility clusters...
+done (1)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_borealis01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_borealis01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (623970 bytes)
+Error! prop_static using model "models/props/cs_office/tv_plasma.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props/cs_office/tv_plasma.mdl"!
+Error! prop_static using model "models/props/cs_office/offcorkboarda.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props/cs_office/offcorkboarda.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...Error! detail_prop using model "models/props/cs_office/chair_office.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props/cs_office/chair_office.mdl"!
+10
+Water found with no water_lod_control entity, creating a default one.
+Compacting texture/material tables...
+Reduced 2980 texinfos to 2069
+Reduced 98 texdatas to 82 (2479 bytes to 1915)
+Writing C:\Users\Pires\Box Sync\My Maps\CS Source\VMF\pcc_acmella.bsp
+Wrote ZIP buffer, estimated size 180118, actual size 178028
+11 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[2 texlights parsed from 'lights.rad']
+
+Loading c:\users\pires\box sync\my maps\cs source\vmf\pcc_acmella.bsp
+No vis information, direct lighting only.
+17523 faces
+147 degenerate faces
+9493413 square feet [1367051392.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+79 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.1505 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  33/1024         1584/49152    ( 3.2%) 
+brushes               1250/8192        15000/98304    (15.3%) 
+brushsides           17147/65536      137176/524288   (26.2%) 
+planes               23584/65536      471680/1310720  (36.0%) 
+vertexes             25269/65536      303228/786432   (38.6%) 
+nodes                10394/65536      332608/2097152  (15.9%) 
+texinfos              2069/12288      148968/884736   (16.8%) 
+texdata                 82/2048         2624/65536    ( 4.0%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                17523/65536      981288/3670016  (26.7%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             6618/65536      370608/3670016  (10.1%) 
+leaves               10428/65536      333696/2097152  (15.9%) 
+leaffaces            19684/65536       39368/131072   (30.0%) 
+leafbrushes           4873/65536        9746/131072   ( 7.4%) 
+areas                    3/256            24/2048     ( 1.2%) 
+surfedges           112617/512000     450468/2048000  (22.0%) 
+edges                60941/256000     243764/1024000  (23.8%) 
+LDR worldlights         79/8192         6952/720896   ( 1.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            1/32768          12/393216   ( 0.0%) 
+waterstrips           1468/32768       14680/327680   ( 4.5%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         23739/65536       47478/131072   (36.2%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     8251688/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]      700683/393216   (178.2%) VERY FULL!
+LDR ambient table    10428/65536       41712/262144   (15.9%) 
+HDR ambient table    10428/65536       41712/262144   (15.9%) 
+LDR leaf ambient     28511/65536      798308/1835008  (43.5%) 
+HDR leaf ambient     10428/65536      291984/1835008  (15.9%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/9980     ( 0.0%) 
+pakfile               [variable]      178028/0        ( 0.0%) 
+physics               [variable]      623970/4194304  (14.9%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 48635
+Writing c:\users\pires\box sync\my maps\cs source\vmf\pcc_acmella.bsp
+1 minute, 14 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading C:\Users\Pires\Box Sync\My Maps\CS Source\VMF\pcc_acmella.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+***need to set $abovewater for material dev/dev_water2_cheap
+***need to set $abovewater for material dev/dev_water2_cheap
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\counter-strike source\cstrike\gameinfo.txt
+Patching WVT material: maps/pcc_acmella/nature/blendmudmud001a_wvt_patch
+Patching WVT material: maps/pcc_acmella/nature/blendmuddirt001a_wvt_patch
+Patching WVT material: maps/pcc_acmella/nature/blendprodasphaltgrass_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 8 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (1)
+writing C:\Users\Pires\Box Sync\My Maps\CS Source\VMF\pcc_acmella.prt...Building visibility clusters...
+done (1)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_borealis01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_borealis01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (623970 bytes)
+Error! prop_static using model "models/props/cs_office/tv_plasma.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props/cs_office/tv_plasma.mdl"!
+Error! prop_static using model "models/props/cs_office/offcorkboarda.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props/cs_office/offcorkboarda.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...Error! detail_prop using model "models/props/cs_office/chair_office.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props/cs_office/chair_office.mdl"!
+10
+Water found with no water_lod_control entity, creating a default one.
+Compacting texture/material tables...
+Reduced 2980 texinfos to 2069
+Reduced 98 texdatas to 82 (2479 bytes to 1915)
+Writing C:\Users\Pires\Box Sync\My Maps\CS Source\VMF\pcc_acmella.bsp
+Wrote ZIP buffer, estimated size 180118, actual size 178028
+9 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[2 texlights parsed from 'lights.rad']
+
+Loading c:\users\pires\box sync\my maps\cs source\vmf\pcc_acmella.bsp
+No vis information, direct lighting only.
+17523 faces
+147 degenerate faces
+9493413 square feet [1367051392.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+79 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.1375 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  33/1024         1584/49152    ( 3.2%) 
+brushes               1250/8192        15000/98304    (15.3%) 
+brushsides           17147/65536      137176/524288   (26.2%) 
+planes               23584/65536      471680/1310720  (36.0%) 
+vertexes             25269/65536      303228/786432   (38.6%) 
+nodes                10394/65536      332608/2097152  (15.9%) 
+texinfos              2069/12288      148968/884736   (16.8%) 
+texdata                 82/2048         2624/65536    ( 4.0%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                17523/65536      981288/3670016  (26.7%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             6618/65536      370608/3670016  (10.1%) 
+leaves               10428/65536      333696/2097152  (15.9%) 
+leaffaces            19684/65536       39368/131072   (30.0%) 
+leafbrushes           4873/65536        9746/131072   ( 7.4%) 
+areas                    3/256            24/2048     ( 1.2%) 
+surfedges           112617/512000     450468/2048000  (22.0%) 
+edges                60941/256000     243764/1024000  (23.8%) 
+LDR worldlights         79/8192         6952/720896   ( 1.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            1/32768          12/393216   ( 0.0%) 
+waterstrips           1468/32768       14680/327680   ( 4.5%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         23739/65536       47478/131072   (36.2%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     8251688/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]      404825/393216   (103.0%) VERY FULL!
+LDR ambient table    10428/65536       41712/262144   (15.9%) 
+HDR ambient table    10428/65536       41712/262144   (15.9%) 
+LDR leaf ambient     28537/65536      799036/1835008  (43.5%) 
+HDR leaf ambient     10428/65536      291984/1835008  (15.9%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/15728    ( 0.0%) 
+pakfile               [variable]      178028/0        ( 0.0%) 
+physics               [variable]      623970/4194304  (14.9%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 48635
+Writing c:\users\pires\box sync\my maps\cs source\vmf\pcc_acmella.bsp
+1 minute, 17 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading C:\Users\Pires\Box Sync\My Maps\CS Source\VMF\pcc_acmella.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+***need to set $abovewater for material dev/dev_water2_cheap
+***need to set $abovewater for material dev/dev_water2_cheap
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\counter-strike source\cstrike\gameinfo.txt
+Patching WVT material: maps/pcc_acmella/nature/blendmudmud001a_wvt_patch
+Patching WVT material: maps/pcc_acmella/nature/blendmuddirt001a_wvt_patch
+Patching WVT material: maps/pcc_acmella/nature/blendprodasphaltgrass_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 8 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (1)
+writing C:\Users\Pires\Box Sync\My Maps\CS Source\VMF\pcc_acmella.prt...Building visibility clusters...
+done (1)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_borealis01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_borealis01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (637622 bytes)
+Error! prop_static using model "models/props/cs_office/tv_plasma.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props/cs_office/tv_plasma.mdl"!
+Error! prop_static using model "models/props/cs_office/offcorkboarda.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props/cs_office/offcorkboarda.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...Error! detail_prop using model "models/props/cs_office/chair_office.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props/cs_office/chair_office.mdl"!
+10
+Water found with no water_lod_control entity, creating a default one.
+Compacting texture/material tables...
+Reduced 3097 texinfos to 2134
+Reduced 98 texdatas to 82 (2479 bytes to 1915)
+Writing C:\Users\Pires\Box Sync\My Maps\CS Source\VMF\pcc_acmella.bsp
+Wrote ZIP buffer, estimated size 180118, actual size 178028
+9 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[2 texlights parsed from 'lights.rad']
+
+Loading c:\users\pires\box sync\my maps\cs source\vmf\pcc_acmella.bsp
+No vis information, direct lighting only.
+17641 faces
+144 degenerate faces
+9510597 square feet [1369526016.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+79 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.1414 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  38/1024         1824/49152    ( 3.7%) 
+brushes               1274/8192        15288/98304    (15.6%) 
+brushsides           17529/65536      140232/524288   (26.7%) 
+planes               24156/65536      483120/1310720  (36.9%) 
+vertexes             25521/65536      306252/786432   (38.9%) 
+nodes                10480/65536      335360/2097152  (16.0%) 
+texinfos              2134/12288      153648/884736   (17.4%) 
+texdata                 82/2048         2624/65536    ( 4.0%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                17641/65536      987896/3670016  (26.9%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             6759/65536      378504/3670016  (10.3%) 
+leaves               10519/65536      336608/2097152  (16.1%) 
+leaffaces            19823/65536       39646/131072   (30.2%) 
+leafbrushes           4821/65536        9642/131072   ( 7.4%) 
+areas                    3/256            24/2048     ( 1.2%) 
+surfedges           113886/512000     455544/2048000  (22.2%) 
+edges                61675/256000     246700/1024000  (24.1%) 
+LDR worldlights         79/8192         6952/720896   ( 1.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            1/32768          12/393216   ( 0.0%) 
+waterstrips           1478/32768       14780/327680   ( 4.5%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         23691/65536       47382/131072   (36.1%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     8343376/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]      407787/393216   (103.7%) VERY FULL!
+LDR ambient table    10519/65536       42076/262144   (16.1%) 
+HDR ambient table    10519/65536       42076/262144   (16.1%) 
+LDR leaf ambient     29138/65536      815864/1835008  (44.5%) 
+HDR leaf ambient     10519/65536      294532/1835008  (16.1%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/15730    ( 0.0%) 
+pakfile               [variable]      178028/0        ( 0.0%) 
+physics               [variable]      637622/4194304  (15.2%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 48982
+Writing c:\users\pires\box sync\my maps\cs source\vmf\pcc_acmella.bsp
+1 minute, 6 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading C:\Users\Pires\Box Sync\My Maps\CS Source\VMF\pcc_acmella.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+***need to set $abovewater for material dev/dev_water2_cheap
+***need to set $abovewater for material dev/dev_water2_cheap
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\counter-strike source\cstrike\gameinfo.txt
+Patching WVT material: maps/pcc_acmella/nature/blendmudmud001a_wvt_patch
+Patching WVT material: maps/pcc_acmella/nature/blendmuddirt001a_wvt_patch
+Patching WVT material: maps/pcc_acmella/nature/blendprodasphaltgrass_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 8 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (1)
+writing C:\Users\Pires\Box Sync\My Maps\CS Source\VMF\pcc_acmella.prt...Building visibility clusters...
+done (1)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_borealis01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_borealis01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (629734 bytes)
+Error! prop_static using model "models/props/cs_office/tv_plasma.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props/cs_office/tv_plasma.mdl"!
+Error! prop_static using model "models/props/cs_office/offcorkboarda.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props/cs_office/offcorkboarda.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...Error! detail_prop using model "models/props/cs_office/chair_office.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props/cs_office/chair_office.mdl"!
+10
+Water found with no water_lod_control entity, creating a default one.
+Compacting texture/material tables...
+Reduced 3070 texinfos to 2126
+Reduced 97 texdatas to 81 (2465 bytes to 1898)
+Writing C:\Users\Pires\Box Sync\My Maps\CS Source\VMF\pcc_acmella.bsp
+Wrote ZIP buffer, estimated size 180127, actual size 178037
+7 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[2 texlights parsed from 'lights.rad']
+
+Loading c:\users\pires\box sync\my maps\cs source\vmf\pcc_acmella.bsp
+No vis information, direct lighting only.
+17509 faces
+142 degenerate faces
+9510596 square feet [1369525760.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+79 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.1205 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  38/1024         1824/49152    ( 3.7%) 
+brushes               1246/8192        14952/98304    (15.2%) 
+brushsides           17144/65536      137152/524288   (26.2%) 
+planes               23544/65536      470880/1310720  (35.9%) 
+vertexes             25276/65536      303312/786432   (38.6%) 
+nodes                10417/65536      333344/2097152  (15.9%) 
+texinfos              2126/12288      153072/884736   (17.3%) 
+texdata                 81/2048         2592/65536    ( 4.0%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                17509/65536      980504/3670016  (26.7%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             6702/65536      375312/3670016  (10.2%) 
+leaves               10456/65536      334592/2097152  (16.0%) 
+leaffaces            19696/65536       39392/131072   (30.1%) 
+leafbrushes           4773/65536        9546/131072   ( 7.3%) 
+areas                    3/256            24/2048     ( 1.2%) 
+surfedges           113049/512000     452196/2048000  (22.1%) 
+edges                61195/256000     244780/1024000  (23.9%) 
+LDR worldlights         79/8192         6952/720896   ( 1.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            1/32768          12/393216   ( 0.0%) 
+waterstrips           1472/32768       14720/327680   ( 4.5%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         23610/65536       47220/131072   (36.0%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     8313980/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]      407787/393216   (103.7%) VERY FULL!
+LDR ambient table    10456/65536       41824/262144   (16.0%) 
+HDR ambient table    10456/65536       41824/262144   (16.0%) 
+LDR leaf ambient     29009/65536      812252/1835008  (44.3%) 
+HDR leaf ambient     10456/65536      292768/1835008  (16.0%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/15730    ( 0.0%) 
+pakfile               [variable]      178037/0        ( 0.0%) 
+physics               [variable]      629734/4194304  (15.0%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 48622
+Writing c:\users\pires\box sync\my maps\cs source\vmf\pcc_acmella.bsp
+1 minute, 2 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading C:\Users\Pires\Box Sync\My Maps\CS Source\VMF\pcc_acmella.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+***need to set $abovewater for material dev/dev_water2_cheap
+***need to set $abovewater for material dev/dev_water2_cheap
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\counter-strike source\cstrike\gameinfo.txt
+Patching WVT material: maps/pcc_acmella/nature/blendmudmud001a_wvt_patch
+Patching WVT material: maps/pcc_acmella/nature/blendmuddirt001a_wvt_patch
+Patching WVT material: maps/pcc_acmella/nature/blendprodasphaltgrass_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 8 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (1)
+writing C:\Users\Pires\Box Sync\My Maps\CS Source\VMF\pcc_acmella.prt...Building visibility clusters...
+done (1)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_borealis01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_borealis01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (627326 bytes)
+Error! prop_static using model "models/props/cs_office/tv_plasma.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props/cs_office/tv_plasma.mdl"!
+Error! prop_static using model "models/props/cs_office/offcorkboarda.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props/cs_office/offcorkboarda.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...Error! detail_prop using model "models/props/cs_office/chair_office.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props/cs_office/chair_office.mdl"!
+10
+Water found with no water_lod_control entity, creating a default one.
+Compacting texture/material tables...
+Reduced 3085 texinfos to 2131
+Reduced 97 texdatas to 81 (2465 bytes to 1898)
+Writing C:\Users\Pires\Box Sync\My Maps\CS Source\VMF\pcc_acmella.bsp
+Wrote ZIP buffer, estimated size 180127, actual size 178037
+7 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[2 texlights parsed from 'lights.rad']
+
+Loading c:\users\pires\box sync\my maps\cs source\vmf\pcc_acmella.bsp
+No vis information, direct lighting only.
+17490 faces
+146 degenerate faces
+9510605 square feet [1369527040.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+79 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.1097 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  38/1024         1824/49152    ( 3.7%) 
+brushes               1238/8192        14856/98304    (15.1%) 
+brushsides           16882/65536      135056/524288   (25.8%) 
+planes               23196/65536      463920/1310720  (35.4%) 
+vertexes             25223/65536      302676/786432   (38.5%) 
+nodes                10459/65536      334688/2097152  (16.0%) 
+texinfos              2131/12288      153432/884736   (17.3%) 
+texdata                 81/2048         2592/65536    ( 4.0%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                17490/65536      979440/3670016  (26.7%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             6674/65536      373744/3670016  (10.2%) 
+leaves               10498/65536      335936/2097152  (16.0%) 
+leaffaces            19691/65536       39382/131072   (30.0%) 
+leafbrushes           4794/65536        9588/131072   ( 7.3%) 
+areas                    3/256            24/2048     ( 1.2%) 
+surfedges           112667/512000     450668/2048000  (22.0%) 
+edges                60951/256000     243804/1024000  (23.8%) 
+LDR worldlights         79/8192         6952/720896   ( 1.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            1/32768          12/393216   ( 0.0%) 
+waterstrips           1473/32768       14730/327680   ( 4.5%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         23589/65536       47178/131072   (36.0%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     8316476/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]      408123/393216   (103.8%) VERY FULL!
+LDR ambient table    10498/65536       41992/262144   (16.0%) 
+HDR ambient table    10498/65536       41992/262144   (16.0%) 
+LDR leaf ambient     29242/65536      818776/1835008  (44.6%) 
+HDR leaf ambient     10498/65536      293944/1835008  (16.0%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/15730    ( 0.0%) 
+pakfile               [variable]      178037/0        ( 0.0%) 
+physics               [variable]      627326/4194304  (15.0%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 48354
+Writing c:\users\pires\box sync\my maps\cs source\vmf\pcc_acmella.bsp
+1 minute, 2 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading C:\Users\Pires\Box Sync\My Maps\CS Source\VMF\pcc_acmella.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+***need to set $abovewater for material dev/dev_water2_cheap
+***need to set $abovewater for material dev/dev_water2_cheap
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\counter-strike source\cstrike\gameinfo.txt
+Patching WVT material: maps/pcc_acmella/nature/blendmudmud001a_wvt_patch
+Patching WVT material: maps/pcc_acmella/nature/blendmuddirt001a_wvt_patch
+Patching WVT material: maps/pcc_acmella/nature/blendprodasphaltgrass_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 8 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (2)
+writing C:\Users\Pires\Box Sync\My Maps\CS Source\VMF\pcc_acmella.prt...Building visibility clusters...
+done (1)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_borealis01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_borealis01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (628171 bytes)
+Error! prop_static using model "models/props/cs_office/tv_plasma.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props/cs_office/tv_plasma.mdl"!
+Error! prop_static using model "models/props/cs_office/offcorkboarda.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props/cs_office/offcorkboarda.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...Error! detail_prop using model "models/props/cs_office/chair_office.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props/cs_office/chair_office.mdl"!
+10
+Water found with no water_lod_control entity, creating a default one.
+Compacting texture/material tables...
+Reduced 3094 texinfos to 2132
+Reduced 97 texdatas to 81 (2465 bytes to 1898)
+Writing C:\Users\Pires\Box Sync\My Maps\CS Source\VMF\pcc_acmella.bsp
+Wrote ZIP buffer, estimated size 180127, actual size 178037
+13 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[2 texlights parsed from 'lights.rad']
+
+Loading c:\users\pires\box sync\my maps\cs source\vmf\pcc_acmella.bsp
+No vis information, direct lighting only.
+17496 faces
+146 degenerate faces
+9510677 square feet [1369537536.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+79 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.1619 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  39/1024         1872/49152    ( 3.8%) 
+brushes               1240/8192        14880/98304    (15.1%) 
+brushsides           16894/65536      135152/524288   (25.8%) 
+planes               23200/65536      464000/1310720  (35.4%) 
+vertexes             25235/65536      302820/786432   (38.5%) 
+nodes                10462/65536      334784/2097152  (16.0%) 
+texinfos              2132/12288      153504/884736   (17.4%) 
+texdata                 81/2048         2592/65536    ( 4.0%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                17496/65536      979776/3670016  (26.7%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             6681/65536      374136/3670016  (10.2%) 
+leaves               10502/65536      336064/2097152  (16.0%) 
+leaffaces            19694/65536       39388/131072   (30.1%) 
+leafbrushes           4797/65536        9594/131072   ( 7.3%) 
+areas                    3/256            24/2048     ( 1.2%) 
+surfedges           112729/512000     450916/2048000  (22.0%) 
+edges                60985/256000     243940/1024000  (23.8%) 
+LDR worldlights         79/8192         6952/720896   ( 1.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            1/32768          12/393216   ( 0.0%) 
+waterstrips           1473/32768       14730/327680   ( 4.5%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         23604/65536       47208/131072   (36.0%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     8317528/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]      408626/393216   (103.9%) VERY FULL!
+LDR ambient table    10502/65536       42008/262144   (16.0%) 
+HDR ambient table    10502/65536       42008/262144   (16.0%) 
+LDR leaf ambient     29129/65536      815612/1835008  (44.4%) 
+HDR leaf ambient     10502/65536      294056/1835008  (16.0%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/15728    ( 0.0%) 
+pakfile               [variable]      178037/0        ( 0.0%) 
+physics               [variable]      628171/4194304  (15.0%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 48376
+Writing c:\users\pires\box sync\my maps\cs source\vmf\pcc_acmella.bsp
+1 minute, 21 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading C:\Users\Pires\Box Sync\My Maps\CS Source\VMF\pcc_acmella.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+***need to set $abovewater for material dev/dev_water2_cheap
+***need to set $abovewater for material dev/dev_water2_cheap
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\counter-strike source\cstrike\gameinfo.txt
+Patching WVT material: maps/pcc_acmella/nature/blendmudmud001a_wvt_patch
+Patching WVT material: maps/pcc_acmella/nature/blendmuddirt001a_wvt_patch
+Patching WVT material: maps/pcc_acmella/nature/blendprodasphaltgrass_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 8 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (1)
+writing C:\Users\Pires\Box Sync\My Maps\CS Source\VMF\pcc_acmella.prt...Building visibility clusters...
+done (1)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_borealis01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_borealis01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (628563 bytes)
+Error! prop_static using model "models/props/cs_office/tv_plasma.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props/cs_office/tv_plasma.mdl"!
+Error! prop_static using model "models/props/cs_office/offcorkboarda.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props/cs_office/offcorkboarda.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...Error! detail_prop using model "models/props/cs_office/chair_office.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props/cs_office/chair_office.mdl"!
+10
+Water found with no water_lod_control entity, creating a default one.
+Compacting texture/material tables...
+Reduced 3097 texinfos to 2135
+Reduced 97 texdatas to 81 (2465 bytes to 1898)
+Writing C:\Users\Pires\Box Sync\My Maps\CS Source\VMF\pcc_acmella.bsp
+Wrote ZIP buffer, estimated size 180127, actual size 178037
+11 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[2 texlights parsed from 'lights.rad']
+
+Loading c:\users\pires\box sync\my maps\cs source\vmf\pcc_acmella.bsp
+No vis information, direct lighting only.
+17506 faces
+146 degenerate faces
+9509303 square feet [1369339648.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+79 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.1403 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  39/1024         1872/49152    ( 3.8%) 
+brushes               1241/8192        14892/98304    (15.1%) 
+brushsides           16900/65536      135200/524288   (25.8%) 
+planes               23206/65536      464120/1310720  (35.4%) 
+vertexes             25247/65536      302964/786432   (38.5%) 
+nodes                10466/65536      334912/2097152  (16.0%) 
+texinfos              2135/12288      153720/884736   (17.4%) 
+texdata                 81/2048         2592/65536    ( 4.0%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                17506/65536      980336/3670016  (26.7%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             6687/65536      374472/3670016  (10.2%) 
+leaves               10506/65536      336192/2097152  (16.0%) 
+leaffaces            19705/65536       39410/131072   (30.1%) 
+leafbrushes           4799/65536        9598/131072   ( 7.3%) 
+areas                    3/256            24/2048     ( 1.2%) 
+surfedges           112803/512000     451212/2048000  (22.0%) 
+edges                61026/256000     244104/1024000  (23.8%) 
+LDR worldlights         79/8192         6952/720896   ( 1.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            1/32768          12/393216   ( 0.0%) 
+waterstrips           1473/32768       14730/327680   ( 4.5%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         23583/65536       47166/131072   (36.0%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     8318324/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]      408626/393216   (103.9%) VERY FULL!
+LDR ambient table    10506/65536       42024/262144   (16.0%) 
+HDR ambient table    10506/65536       42024/262144   (16.0%) 
+LDR leaf ambient     29112/65536      815136/1835008  (44.4%) 
+HDR leaf ambient     10506/65536      294168/1835008  (16.0%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/15728    ( 0.0%) 
+pakfile               [variable]      178037/0        ( 0.0%) 
+physics               [variable]      628563/4194304  (15.0%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 48406
+Writing c:\users\pires\box sync\my maps\cs source\vmf\pcc_acmella.bsp
+1 minute, 16 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading C:\Users\Pires\Box Sync\My Maps\CS Source\VMF\pcc_acmella.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+***need to set $abovewater for material dev/dev_water2_cheap
+***need to set $abovewater for material dev/dev_water2_cheap
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\counter-strike source\cstrike\gameinfo.txt
+Patching WVT material: maps/pcc_acmella/nature/blendmudmud001a_wvt_patch
+Patching WVT material: maps/pcc_acmella/nature/blendmuddirt001a_wvt_patch
+Patching WVT material: maps/pcc_acmella/nature/blendprodasphaltgrass_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 8 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (1)
+writing C:\Users\Pires\Box Sync\My Maps\CS Source\VMF\pcc_acmella.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_borealis01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_borealis01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (625363 bytes)
+Error! prop_static using model "models/props/cs_office/tv_plasma.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props/cs_office/tv_plasma.mdl"!
+Error! prop_static using model "models/props/cs_office/offcorkboarda.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props/cs_office/offcorkboarda.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...Error! detail_prop using model "models/props/cs_office/chair_office.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props/cs_office/chair_office.mdl"!
+10
+Water found with no water_lod_control entity, creating a default one.
+Compacting texture/material tables...
+Reduced 3094 texinfos to 2134
+Reduced 97 texdatas to 81 (2465 bytes to 1898)
+Writing C:\Users\Pires\Box Sync\My Maps\CS Source\VMF\pcc_acmella.bsp
+Wrote ZIP buffer, estimated size 180127, actual size 178037
+7 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[2 texlights parsed from 'lights.rad']
+
+Loading c:\users\pires\box sync\my maps\cs source\vmf\pcc_acmella.bsp
+No vis information, direct lighting only.
+17468 faces
+151 degenerate faces
+9509303 square feet [1369339648.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+79 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.1148 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  39/1024         1872/49152    ( 3.8%) 
+brushes               1229/8192        14748/98304    (15.0%) 
+brushsides           16739/65536      133912/524288   (25.5%) 
+planes               22936/65536      458720/1310720  (35.0%) 
+vertexes             25159/65536      301908/786432   (38.4%) 
+nodes                10449/65536      334368/2097152  (15.9%) 
+texinfos              2134/12288      153648/884736   (17.4%) 
+texdata                 81/2048         2592/65536    ( 4.0%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                17468/65536      978208/3670016  (26.7%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             6665/65536      373240/3670016  (10.2%) 
+leaves               10489/65536      335648/2097152  (16.0%) 
+leaffaces            19659/65536       39318/131072   (30.0%) 
+leafbrushes           4783/65536        9566/131072   ( 7.3%) 
+areas                    3/256            24/2048     ( 1.2%) 
+surfedges           112512/512000     450048/2048000  (22.0%) 
+edges                60865/256000     243460/1024000  (23.8%) 
+LDR worldlights         79/8192         6952/720896   ( 1.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            1/32768          12/393216   ( 0.0%) 
+waterstrips           1459/32768       14590/327680   ( 4.5%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         23376/65536       46752/131072   (35.7%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     8311916/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]      408626/393216   (103.9%) VERY FULL!
+LDR ambient table    10489/65536       41956/262144   (16.0%) 
+HDR ambient table    10489/65536       41956/262144   (16.0%) 
+LDR leaf ambient     29088/65536      814464/1835008  (44.4%) 
+HDR leaf ambient     10489/65536      293692/1835008  (16.0%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/15728    ( 0.0%) 
+pakfile               [variable]      178037/0        ( 0.0%) 
+physics               [variable]      625363/4194304  (14.9%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 48281
+Writing c:\users\pires\box sync\my maps\cs source\vmf\pcc_acmella.bsp
+1 minute, 3 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading C:\Users\Pires\Box Sync\My Maps\CS Source\VMF\pcc_acmella.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+***need to set $abovewater for material dev/dev_water2_cheap
+***need to set $abovewater for material dev/dev_water2_cheap
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\counter-strike source\cstrike\gameinfo.txt
+Patching WVT material: maps/pcc_acmella/nature/blendmudmud001a_wvt_patch
+Patching WVT material: maps/pcc_acmella/nature/blendmuddirt001a_wvt_patch
+Patching WVT material: maps/pcc_acmella/nature/blendprodasphaltgrass_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 8 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (1)
+writing C:\Users\Pires\Box Sync\My Maps\CS Source\VMF\pcc_acmella.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_borealis01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_borealis01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (625755 bytes)
+Error! prop_static using model "models/props/cs_office/tv_plasma.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props/cs_office/tv_plasma.mdl"!
+Error! prop_static using model "models/props/cs_office/offcorkboarda.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props/cs_office/offcorkboarda.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...Error! detail_prop using model "models/props/cs_office/chair_office.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props/cs_office/chair_office.mdl"!
+10
+Water found with no water_lod_control entity, creating a default one.
+Compacting texture/material tables...
+Reduced 3098 texinfos to 2137
+Reduced 97 texdatas to 81 (2465 bytes to 1898)
+Writing C:\Users\Pires\Box Sync\My Maps\CS Source\VMF\pcc_acmella.bsp
+Wrote ZIP buffer, estimated size 180127, actual size 178037
+10 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[2 texlights parsed from 'lights.rad']
+
+Loading c:\users\pires\box sync\my maps\cs source\vmf\pcc_acmella.bsp
+No vis information, direct lighting only.
+17476 faces
+151 degenerate faces
+9509303 square feet [1369339648.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+79 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.1205 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  39/1024         1872/49152    ( 3.8%) 
+brushes               1230/8192        14760/98304    (15.0%) 
+brushsides           16745/65536      133960/524288   (25.6%) 
+planes               22942/65536      458840/1310720  (35.0%) 
+vertexes             25171/65536      302052/786432   (38.4%) 
+nodes                10454/65536      334528/2097152  (16.0%) 
+texinfos              2137/12288      153864/884736   (17.4%) 
+texdata                 81/2048         2592/65536    ( 4.0%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                17476/65536      978656/3670016  (26.7%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             6670/65536      373520/3670016  (10.2%) 
+leaves               10494/65536      335808/2097152  (16.0%) 
+leaffaces            19674/65536       39348/131072   (30.0%) 
+leafbrushes           4784/65536        9568/131072   ( 7.3%) 
+areas                    3/256            24/2048     ( 1.2%) 
+surfedges           112572/512000     450288/2048000  (22.0%) 
+edges                60897/256000     243588/1024000  (23.8%) 
+LDR worldlights         79/8192         6952/720896   ( 1.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            1/32768          12/393216   ( 0.0%) 
+waterstrips           1459/32768       14590/327680   ( 4.5%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         23382/65536       46764/131072   (35.7%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     8312536/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]      408626/393216   (103.9%) VERY FULL!
+LDR ambient table    10494/65536       41976/262144   (16.0%) 
+HDR ambient table    10494/65536       41976/262144   (16.0%) 
+LDR leaf ambient     29091/65536      814548/1835008  (44.4%) 
+HDR leaf ambient     10494/65536      293832/1835008  (16.0%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/15728    ( 0.0%) 
+pakfile               [variable]      178037/0        ( 0.0%) 
+physics               [variable]      625755/4194304  (14.9%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 48305
+Writing c:\users\pires\box sync\my maps\cs source\vmf\pcc_acmella.bsp
+1 minute, 1 second elapsed

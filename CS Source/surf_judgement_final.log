@@ -1,0 +1,2050 @@
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading C:\Users\Pires\OneDrive\myMaps\CS Source\VMF\surf_judgement_final.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\counter-strike source\cstrike\gameinfo.txt
+Patching WVT material: maps/surf_judgement_final/de_dust/groundsand_blend_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (1)
+writing C:\Users\Pires\OneDrive\myMaps\CS Source\VMF\surf_judgement_final.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (17) (1816400 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Water found with no water_lod_control entity, creating a default one.
+Compacting texture/material tables...
+Reduced 1296 texinfos to 908
+Reduced 42 texdatas to 34 (1174 bytes to 840)
+Writing C:\Users\Pires\OneDrive\myMaps\CS Source\VMF\surf_judgement_final.bsp
+Wrote ZIP buffer, estimated size 214296, actual size 213144
+22 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading C:\Users\Pires\OneDrive\myMaps\CS Source\VMF\surf_judgement_final.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\counter-strike source\cstrike\gameinfo.txt
+Patching WVT material: maps/surf_judgement_final/de_dust/groundsand_blend_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (1)
+writing C:\Users\Pires\OneDrive\myMaps\CS Source\VMF\surf_judgement_final.prt...Building visibility clusters...
+done (1)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (16) (1818932 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Water found with no water_lod_control entity, creating a default one.
+Compacting texture/material tables...
+Reduced 1323 texinfos to 920
+Reduced 45 texdatas to 36 (1304 bytes to 906)
+Writing C:\Users\Pires\OneDrive\myMaps\CS Source\VMF\surf_judgement_final.bsp
+Wrote ZIP buffer, estimated size 214775, actual size 213489
+21 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[2 texlights parsed from 'lights.rad']
+
+Loading c:\users\pires\onedrive\mymaps\cs source\vmf\surf_judgement_final.bsp
+No vis information, direct lighting only.
+27914 faces
+2 degenerate faces
+157245392 square feet [22643335168.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+481 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.3556 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                 182/1024         8736/49152    (17.8%) 
+brushes               5284/8192        63408/98304    (64.5%) 
+brushsides           37067/65536      296536/524288   (56.6%) 
+planes               10258/65536      205160/1310720  (15.7%) 
+vertexes             39022/65536      468264/786432   (59.5%) 
+nodes                14715/65536      470880/2097152  (22.5%) 
+texinfos               920/12288       66240/884736   ( 7.5%) 
+texdata                 36/2048         1152/65536    ( 1.8%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                27914/65536     1563184/3670016  (42.6%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces            12054/65536      675024/3670016  (18.4%) 
+leaves               14898/65536      476736/2097152  (22.7%) 
+leaffaces            31889/65536       63778/131072   (48.7%) 
+leafbrushes          11562/65536       23124/131072   (17.6%) 
+areas                   13/256           104/2048     ( 5.1%) 
+surfedges           175295/512000     701180/2048000  (34.2%) 
+edges                96841/256000     387364/1024000  (37.8%) 
+LDR worldlights        481/8192        42328/720896   ( 5.9%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            3/32768          36/393216   ( 0.0%) 
+waterstrips           1797/32768       17970/327680   ( 5.5%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         26457/65536       52914/131072   (40.4%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]    21234684/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]      302459/393216   (76.9%) 
+LDR ambient table    14898/65536       59592/262144   (22.7%) 
+HDR ambient table    14898/65536       59592/262144   (22.7%) 
+LDR leaf ambient     40576/65536     1136128/1835008  (61.9%) 
+HDR leaf ambient     14898/65536      417144/1835008  (22.7%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/288      ( 0.3%) 
+pakfile               [variable]      213489/0        ( 0.0%) 
+physics               [variable]     1818932/4194304  (43.4%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 71676
+Writing c:\users\pires\onedrive\mymaps\cs source\vmf\surf_judgement_final.bsp
+5 minutes, 58 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading C:\Users\Pires\OneDrive\myMaps\CS Source\VMF\surf_judgement_final.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\counter-strike source\cstrike\gameinfo.txt
+Patching WVT material: maps/surf_judgement_final/de_dust/groundsand_blend_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (1)
+writing C:\Users\Pires\OneDrive\myMaps\CS Source\VMF\surf_judgement_final.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (15) (1818934 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Water found with no water_lod_control entity, creating a default one.
+Compacting texture/material tables...
+Reduced 1325 texinfos to 919
+Reduced 45 texdatas to 36 (1304 bytes to 906)
+Writing C:\Users\Pires\OneDrive\myMaps\CS Source\VMF\surf_judgement_final.bsp
+Wrote ZIP buffer, estimated size 214775, actual size 213489
+21 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading C:\Users\Pires\OneDrive\myMaps\CS Source\VMF\surf_judgement_final.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\counter-strike source\cstrike\gameinfo.txt
+Patching WVT material: maps/surf_judgement_final/de_dust/groundsand_blend_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (2)
+writing C:\Users\Pires\OneDrive\myMaps\CS Source\VMF\surf_judgement_final.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (15) (1818934 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Water found with no water_lod_control entity, creating a default one.
+Compacting texture/material tables...
+Reduced 1325 texinfos to 919
+Reduced 45 texdatas to 36 (1304 bytes to 906)
+Writing C:\Users\Pires\OneDrive\myMaps\CS Source\VMF\surf_judgement_final.bsp
+Wrote ZIP buffer, estimated size 214775, actual size 213489
+19 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[2 texlights parsed from 'lights.rad']
+
+Loading c:\users\pires\onedrive\mymaps\cs source\vmf\surf_judgement_final.bsp
+No vis information, direct lighting only.
+27912 faces
+2 degenerate faces
+157245760 square feet [22643388416.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+481 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.2949 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                 182/1024         8736/49152    (17.8%) 
+brushes               5284/8192        63408/98304    (64.5%) 
+brushsides           37067/65536      296536/524288   (56.6%) 
+planes               10258/65536      205160/1310720  (15.7%) 
+vertexes             39023/65536      468276/786432   (59.5%) 
+nodes                14715/65536      470880/2097152  (22.5%) 
+texinfos               919/12288       66168/884736   ( 7.5%) 
+texdata                 36/2048         1152/65536    ( 1.8%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                27912/65536     1563072/3670016  (42.6%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces            12050/65536      674800/3670016  (18.4%) 
+leaves               14898/65536      476736/2097152  (22.7%) 
+leaffaces            31887/65536       63774/131072   (48.7%) 
+leafbrushes          11562/65536       23124/131072   (17.6%) 
+areas                   13/256           104/2048     ( 5.1%) 
+surfedges           175271/512000     701084/2048000  (34.2%) 
+edges                96831/256000     387324/1024000  (37.8%) 
+LDR worldlights        481/8192        42328/720896   ( 5.9%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            3/32768          36/393216   ( 0.0%) 
+waterstrips           1797/32768       17970/327680   ( 5.5%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         26457/65536       52914/131072   (40.4%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]    21240588/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]      302461/393216   (76.9%) 
+LDR ambient table    14898/65536       59592/262144   (22.7%) 
+HDR ambient table    14898/65536       59592/262144   (22.7%) 
+LDR leaf ambient     40592/65536     1136576/1835008  (61.9%) 
+HDR leaf ambient     14898/65536      417144/1835008  (22.7%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/288      ( 0.3%) 
+pakfile               [variable]      213489/0        ( 0.0%) 
+physics               [variable]     1818934/4194304  (43.4%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 71672
+Writing c:\users\pires\onedrive\mymaps\cs source\vmf\surf_judgement_final.bsp
+5 minutes, 21 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading C:\Users\Pires\OneDrive\myMaps\CS Source\VMF\surf_judgement_final.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\counter-strike source\cstrike\gameinfo.txt
+Patching WVT material: maps/surf_judgement_final/de_dust/groundsand_blend_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (2)
+writing C:\Users\Pires\OneDrive\myMaps\CS Source\VMF\surf_judgement_final.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (15) (1818934 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Water found with no water_lod_control entity, creating a default one.
+Compacting texture/material tables...
+Reduced 1323 texinfos to 920
+Reduced 43 texdatas to 34 (1243 bytes to 840)
+Writing C:\Users\Pires\OneDrive\myMaps\CS Source\VMF\surf_judgement_final.bsp
+Wrote ZIP buffer, estimated size 214790, actual size 213504
+20 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading C:\Users\Pires\OneDrive\myMaps\CS Source\VMF\surf_judgement_final.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\counter-strike source\cstrike\gameinfo.txt
+Patching WVT material: maps/surf_judgement_final/de_dust/groundsand_blend_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (2)
+writing C:\Users\Pires\OneDrive\myMaps\CS Source\VMF\surf_judgement_final.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (16) (1818934 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Water found with no water_lod_control entity, creating a default one.
+Compacting texture/material tables...
+Reduced 1323 texinfos to 920
+Reduced 43 texdatas to 34 (1243 bytes to 840)
+Writing C:\Users\Pires\OneDrive\myMaps\CS Source\VMF\surf_judgement_final.bsp
+Wrote ZIP buffer, estimated size 214790, actual size 213504
+23 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading C:\Users\Pires\OneDrive\myMaps\CS Source\VMF\surf_judgement_final.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\counter-strike source\cstrike\gameinfo.txt
+Patching WVT material: maps/surf_judgement_final/de_dust/groundsand_blend_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (1)
+writing C:\Users\Pires\OneDrive\myMaps\CS Source\VMF\surf_judgement_final.prt...Building visibility clusters...
+done (1)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (17) (1818934 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Water found with no water_lod_control entity, creating a default one.
+Compacting texture/material tables...
+Reduced 1322 texinfos to 919
+Reduced 43 texdatas to 34 (1259 bytes to 840)
+Writing C:\Users\Pires\OneDrive\myMaps\CS Source\VMF\surf_judgement_final.bsp
+Wrote ZIP buffer, estimated size 214838, actual size 213552
+22 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[2 texlights parsed from 'lights.rad']
+
+Loading c:\users\pires\onedrive\mymaps\cs source\vmf\surf_judgement_final.bsp
+No vis information, direct lighting only.
+27914 faces
+2 degenerate faces
+157246160 square feet [22643447808.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+484 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.4663 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                 182/1024         8736/49152    (17.8%) 
+brushes               5284/8192        63408/98304    (64.5%) 
+brushsides           37067/65536      296536/524288   (56.6%) 
+planes               10258/65536      205160/1310720  (15.7%) 
+vertexes             39023/65536      468276/786432   (59.5%) 
+nodes                14715/65536      470880/2097152  (22.5%) 
+texinfos               919/12288       66168/884736   ( 7.5%) 
+texdata                 34/2048         1088/65536    ( 1.7%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                27914/65536     1563184/3670016  (42.6%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces            12052/65536      674912/3670016  (18.4%) 
+leaves               14898/65536      476736/2097152  (22.7%) 
+leaffaces            31889/65536       63778/131072   (48.7%) 
+leafbrushes          11562/65536       23124/131072   (17.6%) 
+areas                   13/256           104/2048     ( 5.1%) 
+surfedges           175287/512000     701148/2048000  (34.2%) 
+edges                96835/256000     387340/1024000  (37.8%) 
+LDR worldlights        484/8192        42592/720896   ( 5.9%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            3/32768          36/393216   ( 0.0%) 
+waterstrips           1797/32768       17970/327680   ( 5.5%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         26457/65536       52914/131072   (40.4%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]    21123036/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]      302959/393216   (77.0%) 
+LDR ambient table    14898/65536       59592/262144   (22.7%) 
+HDR ambient table    14898/65536       59592/262144   (22.7%) 
+LDR leaf ambient     40907/65536     1145396/1835008  (62.4%) 
+HDR leaf ambient     14898/65536      417144/1835008  (22.7%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/288      ( 0.3%) 
+pakfile               [variable]      213552/0        ( 0.0%) 
+physics               [variable]     1818934/4194304  (43.4%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 71676
+Writing c:\users\pires\onedrive\mymaps\cs source\vmf\surf_judgement_final.bsp
+12 minutes, 3 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading C:\Users\Pires\OneDrive\myMaps\CS Source\VMF\surf_judgement_final.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\counter-strike source\cstrike\gameinfo.txt
+Patching WVT material: maps/surf_judgement_final/de_dust/groundsand_blend_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (2)
+writing C:\Users\Pires\OneDrive\myMaps\CS Source\VMF\surf_judgement_final.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (16) (1818934 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Water found with no water_lod_control entity, creating a default one.
+Compacting texture/material tables...
+Reduced 1322 texinfos to 919
+Reduced 43 texdatas to 34 (1259 bytes to 840)
+Writing C:\Users\Pires\OneDrive\myMaps\CS Source\VMF\surf_judgement_final.bsp
+Wrote ZIP buffer, estimated size 214838, actual size 213552
+22 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[2 texlights parsed from 'lights.rad']
+
+Loading c:\users\pires\onedrive\mymaps\cs source\vmf\surf_judgement_final.bsp
+No vis information, direct lighting only.
+27914 faces
+2 degenerate faces
+157246160 square feet [22643447808.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+484 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.3214 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                 182/1024         8736/49152    (17.8%) 
+brushes               5284/8192        63408/98304    (64.5%) 
+brushsides           37067/65536      296536/524288   (56.6%) 
+planes               10258/65536      205160/1310720  (15.7%) 
+vertexes             39023/65536      468276/786432   (59.5%) 
+nodes                14715/65536      470880/2097152  (22.5%) 
+texinfos               919/12288       66168/884736   ( 7.5%) 
+texdata                 34/2048         1088/65536    ( 1.7%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                27914/65536     1563184/3670016  (42.6%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces            12052/65536      674912/3670016  (18.4%) 
+leaves               14898/65536      476736/2097152  (22.7%) 
+leaffaces            31889/65536       63778/131072   (48.7%) 
+leafbrushes          11562/65536       23124/131072   (17.6%) 
+areas                   13/256           104/2048     ( 5.1%) 
+surfedges           175287/512000     701148/2048000  (34.2%) 
+edges                96835/256000     387340/1024000  (37.8%) 
+LDR worldlights        484/8192        42592/720896   ( 5.9%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            3/32768          36/393216   ( 0.0%) 
+waterstrips           1797/32768       17970/327680   ( 5.5%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         26457/65536       52914/131072   (40.4%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]    21123036/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]      302959/393216   (77.0%) 
+LDR ambient table    14898/65536       59592/262144   (22.7%) 
+HDR ambient table    14898/65536       59592/262144   (22.7%) 
+LDR leaf ambient     40908/65536     1145424/1835008  (62.4%) 
+HDR leaf ambient     14898/65536      417144/1835008  (22.7%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/288      ( 0.3%) 
+pakfile               [variable]      213552/0        ( 0.0%) 
+physics               [variable]     1818934/4194304  (43.4%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 71676
+Writing c:\users\pires\onedrive\mymaps\cs source\vmf\surf_judgement_final.bsp
+5 minutes, 19 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading C:\Users\Pires\OneDrive\myMaps\CS Source\VMF\surf_judgement_final.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\counter-strike source\cstrike\gameinfo.txt
+Patching WVT material: maps/surf_judgement_final/de_dust/groundsand_blend_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (4)
+writing C:\Users\Pires\OneDrive\myMaps\CS Source\VMF\surf_judgement_final.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (42) (1813732 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Water found with no water_lod_control entity, creating a default one.
+Compacting texture/material tables...
+Reduced 1347 texinfos to 928
+Reduced 44 texdatas to 34 (1309 bytes to 840)
+Writing C:\Users\Pires\OneDrive\myMaps\CS Source\VMF\surf_judgement_final.bsp
+Wrote ZIP buffer, estimated size 215305, actual size 213885
+59 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading C:\Users\Pires\OneDrive\myMaps\CS Source\VMF\surf_judgement_final.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\counter-strike source\cstrike\gameinfo.txt
+Patching WVT material: maps/surf_judgement_final/de_dust/groundsand_blend_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (5)
+writing C:\Users\Pires\OneDrive\myMaps\CS Source\VMF\surf_judgement_final.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (31) (1812915 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Water found with no water_lod_control entity, creating a default one.
+Compacting texture/material tables...
+Reduced 1349 texinfos to 927
+Reduced 44 texdatas to 34 (1309 bytes to 840)
+Writing C:\Users\Pires\OneDrive\myMaps\CS Source\VMF\surf_judgement_final.bsp
+Wrote ZIP buffer, estimated size 215305, actual size 213885
+48 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading C:\Users\Pires\OneDrive\myMaps\CS Source\VMF\surf_judgement_final.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\counter-strike source\cstrike\gameinfo.txt
+Patching WVT material: maps/surf_judgement_final/de_dust/groundsand_blend_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (1)
+writing C:\Users\Pires\OneDrive\myMaps\CS Source\VMF\surf_judgement_final.prt...Building visibility clusters...
+done (1)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (16) (1807486 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Water found with no water_lod_control entity, creating a default one.
+Compacting texture/material tables...
+Reduced 1385 texinfos to 942
+Reduced 44 texdatas to 34 (1309 bytes to 840)
+Writing C:\Users\Pires\OneDrive\myMaps\CS Source\VMF\surf_judgement_final.bsp
+Wrote ZIP buffer, estimated size 215305, actual size 213885
+21 seconds elapsed
+
+
+
+4 threads
+reading c:\users\pires\onedrive\mymaps\cs source\vmf\surf_judgement_final.bsp
+reading c:\users\pires\onedrive\mymaps\cs source\vmf\surf_judgement_final.prt
+5673 portalclusters
+15636 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 94453 visible clusters (1.14%)
+Total clusters visible: 8293985
+Average clusters visible: 1462
+Building PAS...
+Average clusters audible: 1890
+visdatasize:4790403  compressed from 8078352
+writing c:\users\pires\onedrive\mymaps\cs source\vmf\surf_judgement_final.bsp
+19 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[2 texlights parsed from 'lights.rad']
+
+Loading c:\users\pires\onedrive\mymaps\cs source\vmf\surf_judgement_final.bsp
+28223 faces
+2 degenerate faces
+157272896 square feet [22647296000.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+28221 patches before subdivision
+779223 patches after subdivision
+484 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 181948493, max 2469
+transfer lists: 1388.2 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(1252695, 1099681, 981643)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(586494, 541416, 498280)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(318136, 309751, 299694)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(194997, 198723, 198755)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(127324, 134444, 137453)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(86793, 94111, 97726)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(60850, 67406, 70923)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(43567, 49161, 52370)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(31722, 36413, 39262)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(23428, 27337, 29838)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(17520, 20775, 22955)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #12 added RGB(13247, 15961, 17854)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #13 added RGB(10116, 12382, 14023)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #14 added RGB(7793, 9690, 11110)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #15 added RGB(6049, 7643, 8871)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #16 added RGB(4728, 6069, 7130)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #17 added RGB(3718, 4849, 5765)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #18 added RGB(2938, 3894, 4686)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #19 added RGB(2333, 3142, 3825)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #20 added RGB(1860, 2546, 3135)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #21 added RGB(1487, 2069, 2578)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #22 added RGB(1193, 1688, 2126)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #23 added RGB(960, 1380, 1758)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #24 added RGB(773, 1131, 1456)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #25 added RGB(625, 929, 1209)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #26 added RGB(505, 764, 1005)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #27 added RGB(409, 630, 837)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #28 added RGB(332, 520, 698)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #29 added RGB(269, 429, 582)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #30 added RGB(219, 355, 487)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #31 added RGB(178, 294, 407)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #32 added RGB(145, 243, 340)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #33 added RGB(118, 202, 285)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #34 added RGB(96, 167, 239)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #35 added RGB(78, 139, 200)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #36 added RGB(64, 115, 168)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #37 added RGB(52, 96, 141)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #38 added RGB(42, 80, 118)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #39 added RGB(35, 66, 99)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #40 added RGB(28, 55, 83)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #41 added RGB(23, 46, 70)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #42 added RGB(19, 38, 59)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #43 added RGB(15, 32, 49)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #44 added RGB(13, 27, 41)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #45 added RGB(10, 22, 35)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #46 added RGB(8, 18, 29)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #47 added RGB(7, 15, 25)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #48 added RGB(6, 13, 21)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #49 added RGB(5, 11, 17)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #50 added RGB(4, 9, 15)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #51 added RGB(3, 7, 12)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #52 added RGB(2, 6, 10)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #53 added RGB(2, 5, 9)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #54 added RGB(2, 4, 7)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #55 added RGB(1, 4, 6)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #56 added RGB(1, 3, 5)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #57 added RGB(1, 3, 4)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #58 added RGB(1, 2, 4)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #59 added RGB(1, 2, 3)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #60 added RGB(0, 1, 3)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #61 added RGB(0, 1, 2)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #62 added RGB(0, 1, 2)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #63 added RGB(0, 1, 2)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #64 added RGB(0, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #65 added RGB(0, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #66 added RGB(0, 1, 1)
+Build Patch/Sample Hash Table(s).....Done<0.4715 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                 175/1024         8400/49152    (17.1%) 
+brushes               5235/8192        62820/98304    (63.9%) 
+brushsides           36947/65536      295576/524288   (56.4%) 
+planes               10728/65536      214560/1310720  (16.4%) 
+vertexes             39357/65536      472284/786432   (60.1%) 
+nodes                14842/65536      474944/2097152  (22.6%) 
+texinfos               942/12288       67824/884736   ( 7.7%) 
+texdata                 34/2048         1088/65536    ( 1.7%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                28223/65536     1580488/3670016  (43.1%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces            12089/65536      676984/3670016  (18.4%) 
+leaves               15018/65536      480576/2097152  (22.9%) 
+leaffaces            32547/65536       65094/131072   (49.7%) 
+leafbrushes          11522/65536       23044/131072   (17.6%) 
+areas                   13/256           104/2048     ( 5.1%) 
+surfedges           176906/512000     707624/2048000  (34.6%) 
+edges                97723/256000     390892/1024000  (38.2%) 
+LDR worldlights        484/8192        42592/720896   ( 5.9%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            3/32768          36/393216   ( 0.0%) 
+waterstrips           1843/32768       18430/327680   ( 5.6%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         27033/65536       54066/131072   (41.2%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]    21300520/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]     4790403/16777216 (28.6%) 
+entdata               [variable]      301646/393216   (76.7%) 
+LDR ambient table    15018/65536       60072/262144   (22.9%) 
+HDR ambient table    15018/65536       60072/262144   (22.9%) 
+LDR leaf ambient     49626/65536     1389528/1835008  (75.7%) 
+HDR leaf ambient     15018/65536      420504/1835008  (22.9%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/288      ( 0.3%) 
+pakfile               [variable]      213885/0        ( 0.0%) 
+physics               [variable]     1807486/4194304  (43.1%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 72532
+Writing c:\users\pires\onedrive\mymaps\cs source\vmf\surf_judgement_final.bsp
+9 minutes, 46 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading C:\Users\Pires\OneDrive\myMaps\CS Source\VMF\surf_judgement_final.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\counter-strike source\cstrike\gameinfo.txt
+Patching WVT material: maps/surf_judgement_final/de_dust/groundsand_blend_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (1)
+writing C:\Users\Pires\OneDrive\myMaps\CS Source\VMF\surf_judgement_final.prt...Building visibility clusters...
+done (1)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (15) (1807358 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Water found with no water_lod_control entity, creating a default one.
+Compacting texture/material tables...
+Reduced 1390 texinfos to 945
+Reduced 44 texdatas to 34 (1309 bytes to 840)
+Writing C:\Users\Pires\OneDrive\myMaps\CS Source\VMF\surf_judgement_final.bsp
+Wrote ZIP buffer, estimated size 215305, actual size 213885
+20 seconds elapsed
+
+
+
+4 threads
+reading c:\users\pires\onedrive\mymaps\cs source\vmf\surf_judgement_final.bsp
+reading c:\users\pires\onedrive\mymaps\cs source\vmf\surf_judgement_final.prt
+5677 portalclusters
+15640 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 94429 visible clusters (1.14%)
+Total clusters visible: 8297382
+Average clusters visible: 1461
+Building PAS...
+Average clusters audible: 1891
+visdatasize:4732420  compressed from 8084048
+writing c:\users\pires\onedrive\mymaps\cs source\vmf\surf_judgement_final.bsp
+16 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading C:\Users\Pires\OneDrive\myMaps\CS Source\VMF\surf_judgement_final.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\counter-strike source\cstrike\gameinfo.txt
+Patching WVT material: maps/surf_judgement_final/de_dust/groundsand_blend_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (2)
+writing C:\Users\Pires\OneDrive\myMaps\CS Source\VMF\surf_judgement_final.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (15) (1807342 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Water found with no water_lod_control entity, creating a default one.
+Compacting texture/material tables...
+Reduced 1393 texinfos to 947
+Reduced 44 texdatas to 34 (1309 bytes to 840)
+Writing C:\Users\Pires\OneDrive\myMaps\CS Source\VMF\surf_judgement_final.bsp
+Wrote ZIP buffer, estimated size 215305, actual size 213885
+21 seconds elapsed
+
+
+
+4 threads
+reading c:\users\pires\onedrive\mymaps\cs source\vmf\surf_judgement_final.bsp
+reading c:\users\pires\onedrive\mymaps\cs source\vmf\surf_judgement_final.prt
+5676 portalclusters
+15640 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 94067 visible clusters (1.13%)
+Total clusters visible: 8297061
+Average clusters visible: 1461
+Building PAS...
+Average clusters audible: 1891
+visdatasize:4736982  compressed from 8082624
+writing c:\users\pires\onedrive\mymaps\cs source\vmf\surf_judgement_final.bsp
+16 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading C:\Users\Pires\OneDrive\myMaps\CS Source\VMF\surf_judgement_final.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\counter-strike source\cstrike\gameinfo.txt
+Patching WVT material: maps/surf_judgement_final/de_dust/groundsand_blend_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (2)
+writing C:\Users\Pires\OneDrive\myMaps\CS Source\VMF\surf_judgement_final.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (15) (1809117 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Water found with no water_lod_control entity, creating a default one.
+Compacting texture/material tables...
+Reduced 1419 texinfos to 957
+Reduced 44 texdatas to 34 (1309 bytes to 840)
+Writing C:\Users\Pires\OneDrive\myMaps\CS Source\VMF\surf_judgement_final.bsp
+Wrote ZIP buffer, estimated size 215305, actual size 213885
+20 seconds elapsed
+
+
+
+4 threads
+reading c:\users\pires\onedrive\mymaps\cs source\vmf\surf_judgement_final.bsp
+reading c:\users\pires\onedrive\mymaps\cs source\vmf\surf_judgement_final.prt
+5706 portalclusters
+15793 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 97840 visible clusters (1.18%)
+Total clusters visible: 8277858
+Average clusters visible: 1450
+Building PAS...
+Average clusters audible: 1892
+visdatasize:4769562  compressed from 8216640
+writing c:\users\pires\onedrive\mymaps\cs source\vmf\surf_judgement_final.bsp
+17 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading C:\Users\Pires\OneDrive\myMaps\CS Source\VMF\surf_judgement_final.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\counter-strike source\cstrike\gameinfo.txt
+Patching WVT material: maps/surf_judgement_final/de_dust/groundsand_blend_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (1)
+writing C:\Users\Pires\OneDrive\myMaps\CS Source\VMF\surf_judgement_final.prt...Building visibility clusters...
+done (1)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (14) (1810261 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Water found with no water_lod_control entity, creating a default one.
+Compacting texture/material tables...
+Reduced 1459 texinfos to 982
+Reduced 44 texdatas to 34 (1309 bytes to 840)
+Writing C:\Users\Pires\OneDrive\myMaps\CS Source\VMF\surf_judgement_final.bsp
+Wrote ZIP buffer, estimated size 215305, actual size 213885
+20 seconds elapsed
+
+
+
+4 threads
+reading c:\users\pires\onedrive\mymaps\cs source\vmf\surf_judgement_final.bsp
+reading c:\users\pires\onedrive\mymaps\cs source\vmf\surf_judgement_final.prt
+5696 portalclusters
+15753 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 222283 visible clusters (2.42%)
+Total clusters visible: 9172178
+Average clusters visible: 1610
+Building PAS...
+Average clusters audible: 2445
+visdatasize:5203083  compressed from 8111104
+writing c:\users\pires\onedrive\mymaps\cs source\vmf\surf_judgement_final.bsp
+17 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading C:\Users\Pires\OneDrive\myMaps\CS Source\VMF\surf_judgement_final.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\counter-strike source\cstrike\gameinfo.txt
+Patching WVT material: maps/surf_judgement_final/de_dust/groundsand_blend_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (1)
+writing C:\Users\Pires\OneDrive\myMaps\CS Source\VMF\surf_judgement_final.prt...Building visibility clusters...
+done (1)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (14) (1810261 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Water found with no water_lod_control entity, creating a default one.
+Compacting texture/material tables...
+Reduced 1459 texinfos to 982
+Reduced 44 texdatas to 34 (1309 bytes to 840)
+Writing C:\Users\Pires\OneDrive\myMaps\CS Source\VMF\surf_judgement_final.bsp
+Wrote ZIP buffer, estimated size 215305, actual size 213885
+19 seconds elapsed
+
+
+
+4 threads
+reading c:\users\pires\onedrive\mymaps\cs source\vmf\surf_judgement_final.bsp
+reading c:\users\pires\onedrive\mymaps\cs source\vmf\surf_judgement_final.prt
+5696 portalclusters
+15753 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 222283 visible clusters (2.42%)
+Total clusters visible: 9172178
+Average clusters visible: 1610
+Building PAS...
+Average clusters audible: 2445
+visdatasize:5203083  compressed from 8111104
+writing c:\users\pires\onedrive\mymaps\cs source\vmf\surf_judgement_final.bsp
+15 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[2 texlights parsed from 'lights.rad']
+
+Loading c:\users\pires\onedrive\mymaps\cs source\vmf\surf_judgement_final.bsp
+28271 faces
+2 degenerate faces
+157267712 square feet [22646550528.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+28269 patches before subdivision
+781183 patches after subdivision
+484 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 182491381, max 2478
+transfer lists: 1392.3 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(1255642, 1101756, 983714)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(587437, 542310, 499140)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(318306, 309926, 299808)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(194875, 198597, 198567)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(127093, 134201, 137158)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(86553, 93856, 97428)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(60642, 67179, 70663)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(43400, 48976, 52159)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(31594, 36269, 39099)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(23332, 27229, 29715)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(17451, 20695, 22865)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #12 added RGB(13198, 15902, 17788)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #13 added RGB(10081, 12340, 13976)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #14 added RGB(7768, 9661, 11077)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #15 added RGB(6032, 7621, 8847)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #16 added RGB(4717, 6054, 7114)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #17 added RGB(3710, 4838, 5753)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #18 added RGB(2933, 3887, 4677)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #19 added RGB(2329, 3137, 3819)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #20 added RGB(1857, 2541, 3131)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #21 added RGB(1486, 2066, 2575)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #22 added RGB(1192, 1685, 2123)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #23 added RGB(959, 1378, 1756)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #24 added RGB(773, 1130, 1455)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #25 added RGB(624, 928, 1208)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #26 added RGB(505, 763, 1004)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #27 added RGB(409, 629, 836)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #28 added RGB(332, 519, 697)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #29 added RGB(269, 429, 582)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #30 added RGB(219, 354, 486)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #31 added RGB(178, 293, 406)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #32 added RGB(145, 243, 340)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #33 added RGB(118, 201, 285)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #34 added RGB(96, 167, 238)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #35 added RGB(78, 139, 200)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #36 added RGB(64, 115, 168)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #37 added RGB(52, 96, 141)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #38 added RGB(42, 80, 118)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #39 added RGB(35, 66, 99)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #40 added RGB(28, 55, 83)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #41 added RGB(23, 46, 70)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #42 added RGB(19, 38, 59)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #43 added RGB(15, 32, 49)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #44 added RGB(13, 26, 41)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #45 added RGB(10, 22, 35)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #46 added RGB(8, 18, 29)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #47 added RGB(7, 15, 25)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #48 added RGB(6, 13, 21)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #49 added RGB(5, 11, 17)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #50 added RGB(4, 9, 15)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #51 added RGB(3, 7, 12)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #52 added RGB(2, 6, 10)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #53 added RGB(2, 5, 9)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #54 added RGB(2, 4, 7)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #55 added RGB(1, 4, 6)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #56 added RGB(1, 3, 5)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #57 added RGB(1, 3, 4)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #58 added RGB(1, 2, 4)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #59 added RGB(1, 2, 3)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #60 added RGB(0, 1, 3)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #61 added RGB(0, 1, 2)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #62 added RGB(0, 1, 2)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #63 added RGB(0, 1, 2)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #64 added RGB(0, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #65 added RGB(0, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #66 added RGB(0, 1, 1)
+Build Patch/Sample Hash Table(s).....Done<0.4862 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                 174/1024         8352/49152    (17.0%) 
+brushes               5230/8192        62760/98304    (63.8%) 
+brushsides           37029/65536      296232/524288   (56.5%) 
+planes               11024/65536      220480/1310720  (16.8%) 
+vertexes             39479/65536      473748/786432   (60.2%) 
+nodes                14844/65536      475008/2097152  (22.7%) 
+texinfos               982/12288       70704/884736   ( 8.0%) 
+texdata                 34/2048         1088/65536    ( 1.7%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                28271/65536     1583176/3670016  (43.1%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces            12129/65536      679224/3670016  (18.5%) 
+leaves               15019/65536      480608/2097152  (22.9%) 
+leaffaces            32779/65536       65558/131072   (50.0%) 
+leafbrushes          11534/65536       23068/131072   (17.6%) 
+areas                   12/256            96/2048     ( 4.7%) 
+surfedges           177407/512000     709628/2048000  (34.6%) 
+edges                98002/256000     392008/1024000  (38.3%) 
+LDR worldlights        484/8192        42592/720896   ( 5.9%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            3/32768          36/393216   ( 0.0%) 
+waterstrips           1888/32768       18880/327680   ( 5.8%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         27594/65536       55188/131072   (42.1%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]    21355436/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]     5203083/16777216 (31.0%) 
+entdata               [variable]      301496/393216   (76.7%) 
+LDR ambient table    15019/65536       60076/262144   (22.9%) 
+HDR ambient table    15019/65536       60076/262144   (22.9%) 
+LDR leaf ambient     50217/65536     1406076/1835008  (76.6%) 
+HDR leaf ambient     15019/65536      420532/1835008  (22.9%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/288      ( 0.3%) 
+pakfile               [variable]      213885/0        ( 0.0%) 
+physics               [variable]     1810261/4194304  (43.2%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 72778
+Writing c:\users\pires\onedrive\mymaps\cs source\vmf\surf_judgement_final.bsp
+8 minutes, 40 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading C:\Users\Pires\OneDrive\myMaps\CS Source\VMF\surf_judgement_final.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\counter-strike source\cstrike\gameinfo.txt
+Patching WVT material: maps/surf_judgement_final/de_dust/groundsand_blend_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (1)
+writing C:\Users\Pires\OneDrive\myMaps\CS Source\VMF\surf_judgement_final.prt...Building visibility clusters...
+done (1)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (16) (1811201 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Water found with no water_lod_control entity, creating a default one.
+Compacting texture/material tables...
+Reduced 1471 texinfos to 998
+Reduced 44 texdatas to 34 (1309 bytes to 840)
+Writing C:\Users\Pires\OneDrive\myMaps\CS Source\VMF\surf_judgement_final.bsp
+Wrote ZIP buffer, estimated size 215305, actual size 213885
+23 seconds elapsed
+
+
+
+4 threads
+reading c:\users\pires\onedrive\mymaps\cs source\vmf\surf_judgement_final.bsp
+reading c:\users\pires\onedrive\mymaps\cs source\vmf\surf_judgement_final.prt
+5720 portalclusters
+15824 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 250044 visible clusters (2.65%)
+Total clusters visible: 9440377
+Average clusters visible: 1650
+Building PAS...
+Average clusters audible: 2562
+visdatasize:5242385  compressed from 8236800
+writing c:\users\pires\onedrive\mymaps\cs source\vmf\surf_judgement_final.bsp
+18 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading C:\Users\Pires\OneDrive\myMaps\CS Source\VMF\surf_judgement_final.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\counter-strike source\cstrike\gameinfo.txt
+Patching WVT material: maps/surf_judgement_final/de_dust/groundsand_blend_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (2)
+writing C:\Users\Pires\OneDrive\myMaps\CS Source\VMF\surf_judgement_final.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (15) (1811201 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Water found with no water_lod_control entity, creating a default one.
+Compacting texture/material tables...
+Reduced 1464 texinfos to 993
+Reduced 43 texdatas to 33 (1292 bytes to 823)
+Writing C:\Users\Pires\OneDrive\myMaps\CS Source\VMF\surf_judgement_final.bsp
+Wrote ZIP buffer, estimated size 215305, actual size 213885
+20 seconds elapsed
+
+
+
+4 threads
+reading c:\users\pires\onedrive\mymaps\cs source\vmf\surf_judgement_final.bsp
+reading c:\users\pires\onedrive\mymaps\cs source\vmf\surf_judgement_final.prt
+5726 portalclusters
+15830 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 250441 visible clusters (2.64%)
+Total clusters visible: 9470304
+Average clusters visible: 1653
+Building PAS...
+Average clusters audible: 2567
+visdatasize:5276802  compressed from 8245440
+writing c:\users\pires\onedrive\mymaps\cs source\vmf\surf_judgement_final.bsp
+17 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[2 texlights parsed from 'lights.rad']
+
+Loading c:\users\pires\onedrive\mymaps\cs source\vmf\surf_judgement_final.bsp
+28434 faces
+4 degenerate faces
+157266816 square feet [22646421504.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+28430 patches before subdivision
+782716 patches after subdivision
+486 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 183188877, max 2490
+transfer lists: 1397.6 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(1256859, 1101260, 983123)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(587185, 541974, 498799)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(318132, 309737, 299617)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(194764, 198479, 198446)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(127028, 134130, 137085)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(86512, 93811, 97382)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(60617, 67151, 70634)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(43384, 48958, 52140)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(31584, 36257, 39087)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(23326, 27221, 29707)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(17446, 20690, 22859)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #12 added RGB(13195, 15899, 17785)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #13 added RGB(10079, 12338, 13974)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #14 added RGB(7767, 9659, 11075)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #15 added RGB(6032, 7620, 8846)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #16 added RGB(4716, 6053, 7113)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #17 added RGB(3709, 4837, 5753)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #18 added RGB(2933, 3886, 4677)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #19 added RGB(2329, 3136, 3819)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #20 added RGB(1857, 2541, 3130)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #21 added RGB(1486, 2066, 2574)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #22 added RGB(1192, 1685, 2123)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #23 added RGB(959, 1378, 1756)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #24 added RGB(773, 1129, 1455)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #25 added RGB(624, 928, 1208)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #26 added RGB(505, 763, 1004)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #27 added RGB(409, 629, 836)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #28 added RGB(332, 519, 697)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #29 added RGB(269, 429, 582)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #30 added RGB(219, 354, 486)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #31 added RGB(178, 293, 406)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #32 added RGB(145, 243, 340)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #33 added RGB(118, 201, 285)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #34 added RGB(96, 167, 238)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #35 added RGB(78, 139, 200)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #36 added RGB(64, 115, 168)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #37 added RGB(52, 96, 141)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #38 added RGB(42, 80, 118)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #39 added RGB(35, 66, 99)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #40 added RGB(28, 55, 83)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #41 added RGB(23, 46, 70)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #42 added RGB(19, 38, 59)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #43 added RGB(15, 32, 49)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #44 added RGB(13, 26, 41)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #45 added RGB(10, 22, 35)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #46 added RGB(8, 18, 29)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #47 added RGB(7, 15, 25)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #48 added RGB(6, 13, 21)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #49 added RGB(5, 11, 17)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #50 added RGB(4, 9, 15)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #51 added RGB(3, 7, 12)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #52 added RGB(2, 6, 10)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #53 added RGB(2, 5, 9)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #54 added RGB(2, 4, 7)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #55 added RGB(1, 4, 6)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #56 added RGB(1, 3, 5)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #57 added RGB(1, 3, 4)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #58 added RGB(1, 2, 4)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #59 added RGB(1, 2, 3)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #60 added RGB(0, 1, 3)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #61 added RGB(0, 1, 2)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #62 added RGB(0, 1, 2)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #63 added RGB(0, 1, 2)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #64 added RGB(0, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #65 added RGB(0, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #66 added RGB(0, 1, 1)
+Build Patch/Sample Hash Table(s).....Done<0.6868 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                 175/1024         8400/49152    (17.1%) 
+brushes               5231/8192        62772/98304    (63.9%) 
+brushsides           37080/65536      296640/524288   (56.6%) 
+planes               11142/65536      222840/1310720  (17.0%) 
+vertexes             39723/65536      476676/786432   (60.6%) 
+nodes                14956/65536      478592/2097152  (22.8%) 
+texinfos               993/12288       71496/884736   ( 8.1%) 
+texdata                 33/2048         1056/65536    ( 1.6%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                28434/65536     1592304/3670016  (43.4%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces            12180/65536      682080/3670016  (18.6%) 
+leaves               15132/65536      484224/2097152  (23.1%) 
+leaffaces            32883/65536       65766/131072   (50.2%) 
+leafbrushes          11646/65536       23292/131072   (17.8%) 
+areas                   12/256            96/2048     ( 4.7%) 
+surfedges           178376/512000     713504/2048000  (34.8%) 
+edges                98501/256000     394004/1024000  (38.5%) 
+LDR worldlights        486/8192        42768/720896   ( 5.9%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            3/32768          36/393216   ( 0.0%) 
+waterstrips           1931/32768       19310/327680   ( 5.9%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         28206/65536       56412/131072   (43.0%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]    21384584/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]     5276802/16777216 (31.5%) 
+entdata               [variable]      302017/393216   (76.8%) 
+LDR ambient table    15132/65536       60528/262144   (23.1%) 
+HDR ambient table    15132/65536       60528/262144   (23.1%) 
+LDR leaf ambient     50416/65536     1411648/1835008  (76.9%) 
+HDR leaf ambient     15132/65536      423696/1835008  (23.1%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/288      ( 0.3%) 
+pakfile               [variable]      213885/0        ( 0.0%) 
+physics               [variable]     1811201/4194304  (43.2%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 73209
+Writing c:\users\pires\onedrive\mymaps\cs source\vmf\surf_judgement_final.bsp
+9 minutes, 50 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading C:\Users\Pires\OneDrive\myMaps\CS Source\VMF\surf_judgement_final.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\counter-strike source\cstrike\gameinfo.txt
+Patching WVT material: maps/surf_judgement_final/de_dust/groundsand_blend_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity trigger_teleport (-6192.00 -528.00 -703.00) leaked!
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (11776.0 7168.0 96.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (12288.0 7680.0 96.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (11776.0 8192.0 96.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (10752.0 7168.0 -9448.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (10752.0 7168.0 -480.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (10752.0 7168.0 4192.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (10752.0 7168.0 9160.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (10752.0 8192.0 96.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+*** Suppressing further FindPortalSide errors.... ***
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (2)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (15) (1825043 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Water found with no water_lod_control entity, creating a default one.
+Compacting texture/material tables...
+Reduced 1486 texinfos to 1009
+Reduced 45 texdatas to 33 (1402 bytes to 823)
+Writing C:\Users\Pires\OneDrive\myMaps\CS Source\VMF\surf_judgement_final.bsp
+Wrote ZIP buffer, estimated size 216209, actual size 214521
+19 seconds elapsed
+
+
+
+4 threads
+reading c:\users\pires\onedrive\mymaps\cs source\vmf\surf_judgement_final.bsp
+reading c:\users\pires\onedrive\mymaps\cs source\vmf\surf_judgement_final.prt
+LoadPortals: couldn't read c:\users\pires\onedrive\mymaps\cs source\vmf\surf_judgement_final.prt
+
+
+
+[Reading texlights from 'lights.rad']
+[2 texlights parsed from 'lights.rad']
+
+Loading c:\users\pires\onedrive\mymaps\cs source\vmf\surf_judgement_final.bsp
+No vis information, direct lighting only.
+28277 faces
+132099696 square feet [19022356480.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+491 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.5034 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                 175/1024         8400/49152    (17.1%) 
+brushes               5253/8192        63036/98304    (64.1%) 
+brushsides           37254/65536      298032/524288   (56.8%) 
+planes               11514/65536      230280/1310720  (17.6%) 
+vertexes             39282/65536      471384/786432   (59.9%) 
+nodes                17105/65536      547360/2097152  (26.1%) 
+texinfos              1009/12288       72648/884736   ( 8.2%) 
+texdata                 33/2048         1056/65536    ( 1.6%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                28277/65536     1583512/3670016  (43.1%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces            12716/65536      712096/3670016  (19.4%) 
+leaves               17281/65536      552992/2097152  (26.4%) 
+leaffaces            34243/65536       68486/131072   (52.3%) 
+leafbrushes           9576/65536       19152/131072   (14.6%) 
+areas                   16/256           128/2048     ( 6.3%) 
+surfedges           180255/512000     721020/2048000  (35.2%) 
+edges                99369/256000     397476/1024000  (38.8%) 
+LDR worldlights        491/8192        43208/720896   ( 6.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            5/32768          60/393216   ( 0.0%) 
+waterstrips           1964/32768       19640/327680   ( 6.0%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         29202/65536       58404/131072   (44.6%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]    21702532/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]      304909/393216   (77.5%) 
+LDR ambient table    17281/65536       69124/262144   (26.4%) 
+HDR ambient table    17281/65536       69124/262144   (26.4%) 
+LDR leaf ambient     47168/65536     1320704/1835008  (72.0%) 
+HDR leaf ambient     17281/65536      483868/1835008  (26.4%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/290      ( 0.3%) 
+pakfile               [variable]      214521/0        ( 0.0%) 
+physics               [variable]     1825043/4194304  (43.5%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 73284
+Writing c:\users\pires\onedrive\mymaps\cs source\vmf\surf_judgement_final.bsp
+6 minutes, 14 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading C:\Users\Pires\OneDrive\myMaps\CS Source\VMF\surf_judgement_final.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\counter-strike source\cstrike\gameinfo.txt
+Patching WVT material: maps/surf_judgement_final/de_dust/groundsand_blend_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity trigger_teleport (-6192.00 -528.00 -703.00) leaked!
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (13824.0 7168.0 96.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (14336.0 7680.0 96.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (13824.0 8192.0 96.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (12800.0 7168.0 -9448.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (12800.0 7168.0 -480.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (12800.0 7168.0 4192.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (12800.0 7168.0 9160.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (12800.0 8192.0 96.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+*** Suppressing further FindPortalSide errors.... ***
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (2)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (17) (1840931 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Water found with no water_lod_control entity, creating a default one.
+Compacting texture/material tables...
+Reduced 1643 texinfos to 1167
+Reduced 45 texdatas to 33 (1402 bytes to 823)
+Writing C:\Users\Pires\OneDrive\myMaps\CS Source\VMF\surf_judgement_final.bsp
+Wrote ZIP buffer, estimated size 216209, actual size 214521
+22 seconds elapsed
+
+
+
+4 threads
+reading c:\users\pires\onedrive\mymaps\cs source\vmf\surf_judgement_final.bsp
+reading c:\users\pires\onedrive\mymaps\cs source\vmf\surf_judgement_final.prt
+LoadPortals: couldn't read c:\users\pires\onedrive\mymaps\cs source\vmf\surf_judgement_final.prt
+
+
+
+[Reading texlights from 'lights.rad']
+[2 texlights parsed from 'lights.rad']
+
+Loading c:\users\pires\onedrive\mymaps\cs source\vmf\surf_judgement_final.bsp
+No vis information, direct lighting only.
+22492 faces
+1 degenerate faces
+132138640 square feet [19027963904.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+499 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.1812 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                 175/1024         8400/49152    (17.1%) 
+brushes               5297/8192        63564/98304    (64.7%) 
+brushsides           37618/65536      300944/524288   (57.4%) 
+planes               12080/65536      241600/1310720  (18.4%) 
+vertexes             31541/65536      378492/786432   (48.1%) 
+nodes                17507/65536      560224/2097152  (26.7%) 
+texinfos              1167/12288       84024/884736   ( 9.5%) 
+texdata                 33/2048         1056/65536    ( 1.6%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                22492/65536     1259552/3670016  (34.3%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces            12986/65536      727216/3670016  (19.8%) 
+leaves               17683/65536      565856/2097152  (27.0%) 
+leaffaces            26208/65536       52416/131072   (40.0%) 
+leafbrushes           9688/65536       19376/131072   (14.8%) 
+areas                   16/256           128/2048     ( 6.3%) 
+surfedges           153944/512000     615776/2048000  (30.1%) 
+edges                86063/256000     344252/1024000  (33.6%) 
+LDR worldlights        499/8192        43912/720896   ( 6.1%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            5/32768          60/393216   ( 0.0%) 
+waterstrips           1136/32768       11360/327680   ( 3.5%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         17898/65536       35796/131072   (27.3%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     6465556/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]      315644/393216   (80.3%) VERY FULL!
+LDR ambient table    17683/65536       70732/262144   (27.0%) 
+HDR ambient table    17683/65536       70732/262144   (27.0%) 
+LDR leaf ambient     54053/65536     1513484/1835008  (82.5%) VERY FULL!
+HDR leaf ambient     17683/65536      495124/1835008  (27.0%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/290      ( 0.3%) 
+pakfile               [variable]      214521/0        ( 0.0%) 
+physics               [variable]     1840931/4194304  (43.9%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 57466
+Writing c:\users\pires\onedrive\mymaps\cs source\vmf\surf_judgement_final.bsp
+4 minutes, 31 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Source\cstrike\materials
+Loading C:\Users\Pires\OneDrive\myMaps\CS Source\VMF\surf_judgement_final.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\counter-strike source\cstrike\gameinfo.txt
+Patching WVT material: maps/surf_judgement_final/de_dust/groundsand_blend_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity trigger_teleport (-6192.00 -528.00 -703.00) leaked!
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (13824.0 7168.0 96.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (14336.0 7680.0 96.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (13824.0 8192.0 96.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (12800.0 7168.0 -9448.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (12800.0 7168.0 -480.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (12800.0 7168.0 4192.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (12800.0 7168.0 9160.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (12800.0 8192.0 96.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+*** Suppressing further FindPortalSide errors.... ***
+Processing areas...done (0)
+Building Faces...done (1)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (1)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (23) (1840019 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Water found with no water_lod_control entity, creating a default one.
+Compacting texture/material tables...
+Reduced 1642 texinfos to 1165
+Reduced 45 texdatas to 33 (1402 bytes to 823)
+Writing C:\Users\Pires\OneDrive\myMaps\CS Source\VMF\surf_judgement_final.bsp
+Wrote ZIP buffer, estimated size 216209, actual size 214521
+30 seconds elapsed
+
+
+
+4 threads
+reading c:\users\pires\onedrive\mymaps\cs source\vmf\surf_judgement_final.bsp
+reading c:\users\pires\onedrive\mymaps\cs source\vmf\surf_judgement_final.prt
+LoadPortals: couldn't read c:\users\pires\onedrive\mymaps\cs source\vmf\surf_judgement_final.prt
