@@ -1,0 +1,9 @@
+//Overview: scale 4.30, pos_x -2575, pos_y 3539
+
+"ndd"
+{
+ "material" "overviews/ndd"
+ "pos_x"  "-2560"
+ "pos_y"  "3570"
+ "scale"  "4.0"
+}
